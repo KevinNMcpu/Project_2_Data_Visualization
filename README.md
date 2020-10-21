@@ -18,8 +18,8 @@ We displayed all of our data visualizations on a webpage, where we utilized JQue
 
 There are still many opportunities and questions we wish to investigate for future projects. 
 These are our following questions for future research:
--Why is Steam not utilized in Japan and South Korea? Since Japan and South Korea are huge gaming markets, how could Steam be marketed better in Japan and South Korea? 
--Is there a better way to compare sales to game ownerships?
--How does the Steam dataset compare to dataset from the Nintendo, Microsoft Xbox, and Sony Playstation especially in the markets who underutilize Steam?
--How does other countries compare lack of ownership due to computer resources?
+Why is Steam not utilized in Japan and South Korea? Since Japan and South Korea are huge gaming markets, how could Steam be marketed better in Japan and South Korea? 
+Is there a better way to compare sales to game ownerships?
+How does the Steam dataset compare to dataset from the Nintendo, Microsoft Xbox, and Sony Playstation especially in the markets who underutilize Steam?
+How does other countries compare lack of ownership due to computer resources?
 
