@@ -45,6 +45,12 @@ var y = d3.scaleBand()
   .padding(1);
 svg.append("g")
   .call(d3.axisLeft(y))
+svg.append("text")
+    .attr("text-anchor", "end")
+    .attr("transform", "rotate(-90)")
+    .attr("y", -margin.left+100)
+    .attr("x", -margin.top-200)
+    .text("Countries")
 
 // Lines
 svg.selectAll("myline")
