@@ -83,6 +83,8 @@ svg.selectAll("line")
 var toolTip = d3.tip()
   .attr("class", "tooltip")
   .offset([80, -60])
+  .style("background-color", "white")
+  .style("border", "solid")
   .html(function(d) {
     return (`${d.Country}<br> Games Owned: ${d["Games Owned"]}`);
   });
@@ -93,7 +95,7 @@ svg.call(toolTip);
 
 // Step 8: Create event listeners to display and hide the tooltip
 // ==============================
-svg.selectAll("circle").on("click", function(data) {
+svg.selectAll("circle").on("mouseover", function(data) {
   toolTip.show(data, this);
 })
   // onmouseout event
