@@ -30,6 +30,11 @@ svg.append("g")
   .selectAll("text")
     .attr("transform", "translate(-10,0)rotate(-45)")
     .style("text-anchor", "end");
+ svg.append("text")
+    .attr("text-anchor", "end")
+    .attr("x", width + 10)
+    .attr("y", height + margin.top + 20)
+    .text("Games Owned");
 
 // Y axis
 var y = d3.scaleBand()
