@@ -5,6 +5,7 @@
 Analysts: Sarah Zachrich, Madison Chamberlain, Kevin Schram, Robin Bun, Andrew Marino
 
 Data Sources: https://gamedb.online/ https://steamspy.com/ https://steamdb.info/
+Final Site deployed through github: https://sarahz22.github.io/Project_2_Data_Visualization/
 
 Project Overview: \
 We looked at data from Steam, a cloud-based gaming library that allows users the ability to use any computer to access their content.
