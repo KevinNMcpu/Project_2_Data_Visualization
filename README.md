@@ -5,7 +5,9 @@
 Analysts: Sarah Zachrich, Madison Chamberlain, Kevin Schram, Robin Bun, Andrew Marino
 
 Data Sources: https://gamedb.online/ https://steamspy.com/ https://steamdb.info/ \
-Final Site deployed through github: https://sarahz22.github.io/Project_2_Data_Visualization/
+Final Site deployed through github: https://sarahz22.github.io/Project_2_Data_Visualization/ \
+Flask app through heroku: https://steamusers.herokuapp.com/  - put in desired path to navigate \
+Database app: https://data.heroku.com/dataclips/qzajuwdwaxkhutbuxzdyvsmklwvh
 
 Project Overview: \
 We looked at data from Steam, a cloud-based gaming library that allows users the ability to use any computer to access their content.
